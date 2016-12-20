@@ -18,7 +18,7 @@ new Vibes.Builder()
 Download
 ============
 
-RxNearby is ready to be used via [jitpack.io](https://jitpack.io/#hugeinc/Vibes).
+Vibes is ready to be used via [jitpack.io](https://jitpack.io/#hugeinc/Vibes).
 Simply add the following code to your root `build.gradle`:
 
 ```groovy
