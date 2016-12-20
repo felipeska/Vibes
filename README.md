@@ -1,6 +1,8 @@
 # Vibes
 Radial propagation background for Android
 
+![](https://github.com/hugeinc/Vibes/tree/master/art/art.gif)
+
 ## Usage
 
 ```java
